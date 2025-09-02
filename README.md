@@ -6,4 +6,4 @@ Cool, sleek, elegant Loading animation to famous game Super Breakout. #SuperBrea
 
 Click on [Here](https://github.com/harshmaybe/Super-Breakout-Loading-Animation./blob/main/Loading.html) to copy single file html code.
 
-Click on [Here](https://github.com/harshmaybe/Underconstruction/blob/main/README.md) to see how to replace Loading to YOUR NAME in seconds and get direct html output.
+Click on [Here](https://github.com/harshmaybe/Super-Breakout-Custom-Name-Loading-Animation) to see how to replace Loading to YOUR NAME in seconds and get direct html output.
